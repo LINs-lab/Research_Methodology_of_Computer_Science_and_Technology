@@ -1,0 +1,10 @@
+*.synctex.gz
+*.textput.log
+*.DS_Store
+*.bbl
+*.nav
+*.snm
+*.log
+*.out
+*.toc
+*.aux
