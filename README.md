@@ -1,5 +1,5 @@
-# Westlake University Course: Research Methodology of Computer Science and Technology
-Westlake University, Fall 2023
+# Course: Research Methodology of Computer Science and Technology
+Course at Westlake University, Fall 2023
 
 ## Course Logistics
 ### Schedule
