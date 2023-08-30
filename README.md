@@ -18,8 +18,8 @@ Course at Westlake University, Fall 2023
 |   1  	| 2023.Sep.01   | Introduction to CS & AI                                                     |
 |   2  	| 2023.Sep.08   | How to communicate                                                          |
 |   3  	| 2023.Sep.15   | How to do presentation                                                      |
-|   4  	| 2023.Oct.07   | How to do research I                                                        |
-|   5  	| 2023.Oct.13   | How to do research II                                                       |
-|   6  	| 2023.Oct.20   | Academic paper writing                                                      |
-|   7  	| 2023.Oct.27   | Sharing the experience of writing excellent academic papers and rebuttal    |
-|   8  	| 2023.Nov.03   | Practice course                                                             |
+|   4  	| 2023.Sep.22   | How to do research I                                                        |
+|   5  	| 2023.Oct.07   | How to do research II                                                       |
+|   6  	| 2023.Oct.13   | Academic paper writing                                                      |
+|   7  	| 2023.Oct.20   | Sharing the experience of writing excellent academic papers and rebuttal    |
+|   8  	| 2023.Nov.27   | Practice course                                                             |
