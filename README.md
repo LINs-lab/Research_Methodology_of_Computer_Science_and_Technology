@@ -22,4 +22,4 @@ Course at Westlake University, Fall 2023
 |   5  	| 2023. Oct. 07     | How to do research II                                                       |
 |   6  	| 2023. Oct. 13     | Academic paper writing                                                      |
 |   7  	| 2023. Oct. 20     | Sharing the experience of writing excellent academic papers and rebuttal    |
-|   8  	| 2023. Nov. 27     | Practice course                                                             |
+|   8  	| 2023. Oct. 27     | Practice course                                                             |
