@@ -11,10 +11,15 @@ Course at Westlake University, Fall 2023
 **Evaluation**: Attendance (40%) + Course Project (60%)
 * Attendance: Call the roll randomly
 * Course Project: Each student picks a research paper and prepares a 4-minute presentation in English in the last lecture.
-    * Please submit the paper title you would like to present by Oct. 20.
-    * Email subject: [course name]--proposal--[your name]
-    * Email content: paper title, and 1-2 sentences to explain why you choose this paper
-    * Email destination: lins-lab.hr@westlake.edu.cn
+    * Proposal submission
+        * Please submit the paper title you would like to present by Oct. 20.
+        * Email subject: [course name]--proposal--[your name]
+        * Email content: paper title, and 1-2 sentences to explain why you choose this paper
+        * Email destination: lins-lab.hr@westlake.edu.cn
+    * Presentation slides submission
+        * Please submit your slides (PDF format) by Nov. 08.
+        * Email subject: [course name]--proposal--[your name]
+        * Email destination: lins-lab.hr@westlake.edu.cn
 
 ### Syllabus
 | Week 	| Date              | Topics                                                                        |
