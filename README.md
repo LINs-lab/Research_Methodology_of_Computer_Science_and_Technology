@@ -18,7 +18,7 @@ Course at Westlake University, Fall 2023
         * Email destination: lins-lab.hr@westlake.edu.cn
     * Presentation slides submission
         * Please submit your slides (PDF format) by Nov. 08.
-        * Email subject: [course name]--proposal--[your name]
+        * Email subject: [course name]--slides--[your name]
         * Email destination: lins-lab.hr@westlake.edu.cn
 
 ### Syllabus
