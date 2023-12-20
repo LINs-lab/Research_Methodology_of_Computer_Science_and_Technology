@@ -26,7 +26,7 @@ Course at Westlake University, Fall 2023
 |:----:	|------             |------                                                                         |
 |   1  	| 2023. Sep. 01     | Introduction to CS & AI                                                       |
 |   2  	| 2023. Sep. 08     | How to communicate                                                            |
-|   3  	| 2023. Sep. 15     | How to do present                                                             |
+|   3  	| 2023. Sep. 15     | How to do presentation                                                        |
 |   4  	| 2023. Sep. 22     | How to be a good AI researcher (I): doing research                            |
 |   5  	| 2023. Oct. 13     | How to be a good AI researcher (II): productivity and career                  |
 |   6  	| 2023. Oct. 20     | How to be a good AI researcher (III): academic paper writing and peer reviews |
