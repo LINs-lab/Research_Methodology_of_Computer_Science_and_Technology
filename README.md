@@ -4,7 +4,7 @@ Course at Westlake University, Fall 2024
 ## Course Logistics
 ### Schedule
 * **Instructor**: [Tao LIN](https://lins-lab.github.io/)
-* **Time**: Tuesday 13:30 - 15:05
+* **Time**: Tuesday 08:50 - 09:35, 09:50 - 10:35
 * **Location**: YunGu campus E10-304 (in person)
 
 ### Grading
@@ -24,11 +24,11 @@ Course at Westlake University, Fall 2024
 ### Syllabus
 | Week 	| Date              | Topics                                                                        |
 |:----:	|------             |------                                                                         |
-|   1  	| 2024. Sep. 03     | Introduction to CS & AI                                                       |
-|   2  	| 2024. Sep. 10     | How to communicate                                                            |
-|   3  	| 2024. Sep. 14     | How to do presentation                                                        |
-|   4  	| 2024. Sep. 24     | How to be a good AI researcher (I): doing research                            |
-|   5  	| 2024. Oct. 08     | How to be a good AI researcher (II): productivity and career                  |
-|   6  	| 2024. Oct. 15     | How to be a good AI researcher (III): academic paper writing and peer reviews |
-|   7  	| 2024. Oct. 22     | Sharing the experience of writing excellent academic papers and rebuttal      |
-|   8  	| 2024. Oct. 29     | Practice course                                                               |
+|   1  	| 2025. Sep. 02     | Introduction to CS & AI                                                       |
+|   2  	| 2025. Sep. 09     | How to communicate                                                            |
+|   3  	| 2025. Sep. 16     | How to do presentation                                                        |
+|   4  	| 2025. Sep. 23     | How to be a good AI researcher (I): doing research                            |
+|   5  	| 2025. Sep. 30     | How to be a good AI researcher (II): productivity and career                  |
+|   6  	| 2025. Oct. 14     | How to be a good AI researcher (III): academic paper writing and peer reviews |
+|   7  	| 2025. Oct. 21     | Sharing the experience of writing excellent academic papers and rebuttal      |
+|   8  	| 2025. Oct. 28     | Practice course                                                               |
