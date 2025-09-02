@@ -17,7 +17,7 @@ Course at Westlake University, Fall 2024
         * Email content: paper title, and 1-2 sentences to explain why you choose this paper
         * Email destination: lins-lab.hr@westlake.edu.cn
     * Presentation slides submission
-        * Please submit your slides (PDF format) by Oct.27 (23:59).
+        * Please submit your slides (PDF format) by Oct.14 (23:59).
         * Email subject: [course name]--slides--[your name]
         * Email destination: lins-lab.hr@westlake.edu.cn
 
