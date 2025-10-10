@@ -5,7 +5,7 @@ Course at Westlake University, Fall 2024
 ### Schedule
 * **Instructor**: [Tao LIN](https://lins-lab.github.io/)
 * **Time**: Tuesday 08:50 - 09:35, 09:50 - 10:35
-* **Location**: YunGu campus E10-304 (in person)
+* **Location**: YunGu campus E10-201 (in person)
 
 ### Grading
 **Evaluation**: Attendance (40%) + Course Project (60%)
