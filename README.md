@@ -1,5 +1,5 @@
 # Course: Research Methodology of Computer Science and Technology
-Course at Westlake University, Fall 2024
+Course at Westlake University, Fall 2025
 
 ## Course Logistics
 ### Schedule
@@ -10,7 +10,7 @@ Course at Westlake University, Fall 2024
 ### Grading
 **Evaluation**: Attendance (40%) + Course Project (60%)
 * Attendance: Call the roll randomly
-* Course Project: Each student picks a research paper and prepares a 4-minute presentation in English in the last lecture.
+* Course Project: Each student picks a research paper and prepares a 5-minute presentation in English in the last lecture.
     * Proposal submission
         * Please submit the paper title you would like to present by Oct.08.
         * Email subject: [course name]--proposal--[your name]
