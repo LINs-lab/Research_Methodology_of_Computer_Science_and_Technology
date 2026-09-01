@@ -12,14 +12,9 @@ Course at Westlake University, Fall 2026
 * Attendance: Call the roll randomly
 * Course Project: Each student picks a research paper and prepares a 4-minute presentation in English in the last lecture.
     * Proposal submission
-        * Please submit the paper title you would like to present by Oct.08.
-        * Email subject: [course name]--proposal--[your name]
-        * Email content: paper title, and 1-2 sentences to explain why you choose this paper
-        * Email destination: lins-lab.hr@westlake.edu.cn
+        * Please submit the paper title you would like to present and briefly explain your choice (1–2 sentences) via the [proposal submission form](https://ocnfww8fyyv6.feishu.cn/share/base/form/shrcnqJqWAnUAy1VTLX8MQaWtnf) by Oct. 8.
     * Presentation slides submission
-        * Please submit your slides (PDF format) by Oct.17 (23:59).
-        * Email subject: [course name]--slides--[your name]
-        * Email destination: lins-lab.hr@westlake.edu.cn
+        * Please submit your slides in PDF format via the [slides submission form](https://ocnfww8fyyv6.feishu.cn/share/base/form/shrcn7CgstOINanngpYn4KA97ke) by Oct. 17 at 23:59.
 
 ### Syllabus
 | Week 	| Date              | Topics                                                                        |
