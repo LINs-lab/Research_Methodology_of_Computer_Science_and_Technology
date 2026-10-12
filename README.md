@@ -24,6 +24,6 @@ Course at Westlake University, Fall 2026
 |   3  	| 2026. Sep. 15     | How to be a good AI researcher (I): doing research                            |
 |   4  	| 2026. Sep. 22     | How to be a good AI researcher (II): productivity and career                  |
 |   5  	| 2026. Sep. 29     | How to be a good AI researcher (III): academic paper writing and peer reviews |
-|   6  	| 2026. Oct. 13     | Sharing the experience of writing excellent academic papers and rebuttal      |
+|   6  	| 2026. Oct. 13     | [Writing and defending your research paper](slides/2026/week6/lecture06.pdf)      |
 |   7  	| 2026. Oct. 20     | Practice course I                                                             |
 |   8  	| 2026. Oct. 27     | Practice course II                                                            |
